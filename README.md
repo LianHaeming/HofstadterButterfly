@@ -1,2 +1,1 @@
 # HofstadterButterfly
-pojhguytdfugyguyihgguiy
