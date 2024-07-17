@@ -3,3 +3,5 @@ sympy
 scipy
 matplotlib
 ipywidgets
+tqdm
+joblib
